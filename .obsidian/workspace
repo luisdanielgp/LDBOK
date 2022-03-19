@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "9f1269c574bd94b3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CTF/README.md.md",
-            "mode": "source",
-            "source": true
-          }
-        },
-        "group": "30e6d0341424b0b2"
-      },
-      {
         "id": "b06ba444386d9603",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CTF/README.md.md",
+            "file": "README.md.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "996cfd488dbdb6f4"
+      },
+      {
+        "id": "7f4b44c7fb76aade",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "30e6d0341424b0b2"
+        "group": "996cfd488dbdb6f4"
       }
     ],
     "direction": "vertical"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/README.md.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f1269c574bd94b3",
+  "active": "b06ba444386d9603",
   "lastOpenFiles": [
-    "CTF/README.md.md",
+    "README.md.md",
     "CTF/OverTheWire/Bandit/bandit9.md",
+    "CTF/README.md.md",
     "CTF/OverTheWire/Bandit/bandit7.md",
     "CTF/OverTheWire/Bandit/bandit8.md",
     "CTF/OverTheWire/Bandit/bandit6.md",
     "CTF/OverTheWire/Bandit/bandit5.md",
     "CTF/OverTheWire/Bandit/bandit4.md",
     "CTF/OverTheWire/Bandit/bandit3.md",
-    "CTF/OverTheWire/Bandit/bandit2.md",
-    "CTF/OverTheWire/Bandit/bandit1.md"
+    "CTF/OverTheWire/Bandit/bandit2.md"
   ]
 }
