@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md.md",
+            "file": "README.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md.md",
+            "file": "README.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +103,9 @@
   },
   "active": "b06ba444386d9603",
   "lastOpenFiles": [
-    "README.md.md",
+    "README.md",
     "CTF/OverTheWire/Bandit/bandit9.md",
-    "CTF/README.md.md",
+    "CTF/README.md",
     "CTF/OverTheWire/Bandit/bandit7.md",
     "CTF/OverTheWire/Bandit/bandit8.md",
     "CTF/OverTheWire/Bandit/bandit6.md",
