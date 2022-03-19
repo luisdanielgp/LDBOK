@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "6aee7c945e90540f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f1269c574bd94b3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CTF/OverTheWire/Bandit/bandit9.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "30e6d0341424b0b2"
+      },
+      {
+        "id": "b06ba444386d9603",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CTF/OverTheWire/Bandit/bandit9.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "30e6d0341424b0b2"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f42ced276101992d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b59ba03dd21ccc36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aa667c7ddae31b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db5c82d722cfce51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ff876e80e7b2271",
+    "type": "split",
+    "children": [
+      {
+        "id": "57168a757851181d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc405aa6b774ce6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTF/OverTheWire/Bandit/bandit9.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9f1269c574bd94b3",
+  "lastOpenFiles": [
+    "CTF/OverTheWire/Bandit/bandit9.md",
+    "CTF/OverTheWire/Bandit/bandit7.md",
+    "CTF/OverTheWire/Bandit/bandit8.md",
+    "CTF/OverTheWire/Bandit/bandit6.md",
+    "CTF/OverTheWire/Bandit/bandit5.md",
+    "CTF/OverTheWire/Bandit/bandit4.md",
+    "CTF/OverTheWire/Bandit/bandit3.md",
+    "CTF/OverTheWire/Bandit/bandit2.md",
+    "CTF/OverTheWire/Bandit/bandit1.md",
+    "CTF/OverTheWire/Bandit/bandit0.md"
+  ]
+}
