@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elixir/README.md",
+            "file": "Blockchain/Algorand/AlgorandDeveloperSuite/README.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elixir/README.md",
+            "file": "Blockchain/Algorand/AlgorandDeveloperSuite/README.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elixir/README.md",
+                "file": "Blockchain/Algorand/AlgorandDeveloperSuite/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "b06ba444386d9603",
   "lastOpenFiles": [
+    "Blockchain/Algorand/AlgorandDeveloperSuite/README.md",
+    "Blockchain/Algorand/AlgorandDeveloperSuite/CreateAccount.md",
+    "Blockchain/Algorand/AlgorandDeveloperSuite/AlgorandSandbox.md",
+    "SoftwareArchitecture/ADR/README.md",
+    "SoftwareArchitecture/ADR/madr-template.md.md",
     "Elixir/README.md",
     "README.md",
     "CTF/OverTheWire/Bandit/bandit9.md",
     "CTF/README.md",
-    "CTF/OverTheWire/Bandit/bandit7.md",
-    "CTF/OverTheWire/Bandit/bandit8.md",
-    "CTF/OverTheWire/Bandit/bandit6.md",
-    "CTF/OverTheWire/Bandit/bandit5.md",
-    "CTF/OverTheWire/Bandit/bandit4.md",
-    "CTF/OverTheWire/Bandit/bandit3.md"
+    "CTF/OverTheWire/Bandit/bandit7.md"
   ]
 }
